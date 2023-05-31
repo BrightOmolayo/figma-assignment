@@ -1,3 +1,17 @@
 .frontpage{
     background-color: #422F81;
 }
+h1{
+    height: 179px;
+    width: 486px;
+    position: absolute;
+    left: 140px;
+    top: 319px;
+    font-family: Nunito Sans;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 95px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F9F7FF;
+}
