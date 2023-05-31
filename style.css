@@ -15,3 +15,17 @@ h1{
     text-align: left;
     color: #F9F7FF;
 }
+.squares1{
+    position: absolute;
+    width: 113.52px;
+    height: 90.03px;
+    left: 708px;
+    top: 213.97px;
+}
+.image2{
+    position: absolute;
+    width: 258px;
+    height: 340px;
+    left: 744px;
+    top: 255px;
+}
