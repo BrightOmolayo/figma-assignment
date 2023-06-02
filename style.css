@@ -78,8 +78,10 @@ h3{
     font-family:Sans-serif;
 }
 .image2InCircle{
-    height: 300px;
-    width: 300px;
-    border-radius: 150px;\
-    position: relative;
+   border-radius: 25px;
+   position: absolute;
+   left: 82%;
+   right: 15.22%;
+   top: 7.02%;
+   botto: 91.99%;
 }
